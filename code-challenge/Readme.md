@@ -40,3 +40,13 @@ Notes
 	I must admit I have enjoyed my time and freedom at Optel, 
 	but I am eager to work long term as part of a team of programmers at an oppertunity such as the ones at Mindex.
 
+4. Resources used
+
+	I would like to be upfront with all resources I utlized while working on this challenge.
+
+	Software Skills Training, Inc. (SST) - Introduciton to the C# Programming Language for Windows and Web Programmers
+	docs.microsoft.com/en-us/ef/core/
+	https://www.learnentityframeworkcore.com/
+	https://www.entityframeworktutorial.net/efcore/entity-framework-core.aspx
+
+
