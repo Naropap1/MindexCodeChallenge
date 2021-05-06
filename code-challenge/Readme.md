@@ -17,7 +17,24 @@ Notes
 	I decided to follow convention over configuration and use a unique primary key for compensation 
 	instead of doubling up compensation's foreign key as a primary key
 
-3. Solving Bottlenecks
+3. How to use
+	 Task1 - READ
+		* HTTP Method: GET 
+		* URL: localhost:8080/api/numReports/{employeeId}
+		* RESPONSE: ReportingStructure
+
+	 Task 2 - CREATE
+		* HTTP Method: POST 
+		* URL: localhost:8080/api/compensation
+		* PAYLOAD: Compensation
+		* RESPONSE: Compensation
+
+	 Task 2 - READ
+		* HTTP Method: GET 
+		* URL: localhost:8080/api/compensation/{employeeId}
+		* RESPONSE: Compensation
+
+4. Solving Bottlenecks
 
 	Full disclosure this assignment was the first time I've used .NET. 
 	It was also the first time I've worked on a Model View Controller design pattern without a view.
@@ -27,7 +44,7 @@ Notes
 	Overall it wasn't too bad, my prior experience working with with PHP, Javascript and Python for web/database development came in handy.
 	Adn of course my C++ and Java experience helped as well.
 	
-4. Who I am as a Programmer
+5. Who I am as a Programmer
 
 	Over the last year I've made a considerable effort to fit more within what is expected of a conventional programmer.
 	I recognize the important of good class models, documentation, and programming for calrity over optimization.
@@ -40,7 +57,7 @@ Notes
 	I must admit I have enjoyed my time and freedom at Optel, 
 	but I am eager to work long term as part of a team of programmers at an oppertunity such as the ones at Mindex.
 
-4. Resources used
+6. Resources used
 
 	I would like to be upfront with all resources I utlized while working on this challenge.
 
